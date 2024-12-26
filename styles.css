@@ -1,0 +1,71 @@
+/* IMPORTED FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Meddon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yrsa:ital,wght@0,300..700;1,300..700&display=swap");
+
+body {
+  background-color: #262322;
+}
+
+nav {
+  text-align: center;
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: Meddon;
+  font-size: 50px;
+  text-align: center;
+  color: #c64848;
+}
+
+p {
+  font-family: Yrsa;
+  font-size: 20px;
+  color: #ffebeb;
+}
+
+button {
+  font-family: Yrsa;
+  font-size: 22px;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: #c64848;
+  color: #ffebeb;
+}
+
+.description {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.rectype {
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.medianame {
+  color: #c4e1fa;
+}
+
+.presents {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 30px;
+  border-width: 10px;
+}
+
+/* COLOR SCHEME: 
+  #262322: Raisin Black
+  #C64848: Bittersweet Shimmer
+  #8CBB89: Olivine
+  #C4E1FA: Columbia Blue
+  #FFEBEB: Misty Rose
+*/
